@@ -2,6 +2,15 @@ li {
     padding: 5px !important;
 }
 
+nav {
+
+    position: relative;
+
+    width: 100%;
+    z-index: 1000;
+
+
+}
 
 img {
     max-width: 50%;
