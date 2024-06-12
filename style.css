@@ -1,3 +1,9 @@
 li {
     padding: 5px !important;
 }
+
+
+img {
+    max-width: 50%;
+    height: auto;
+}
